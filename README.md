@@ -42,10 +42,10 @@
 </p>
 <h3>📫 Where to Find Me</h3>
 <p>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/Abderhman-Hatem">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/abdelrhman-hatem-346049444?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
